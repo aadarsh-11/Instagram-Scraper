@@ -15,3 +15,4 @@ A simple tool to save all the images of an Instragram Handle
 - If you do not have D-drive, then change the destination path variable on line 47 in main.py and replace "D:/InstaScraper/" to "C:/InstaScraper/"
 - Enter valid credentials of your own instagram when prompted as selenium will scrape instagram using your account.
 - Sit back and relax and the program will do everything and then automatically open the folder where the images are saved.
+- you can only save images from handles you are allowed to see from your instagram account (i.e the private accounts you follow and all public accounts)
